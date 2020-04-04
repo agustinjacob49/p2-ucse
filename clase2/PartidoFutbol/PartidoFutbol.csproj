@@ -5,4 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+        <Aliases>Logica</Aliases>
+	    <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+
 </Project>
