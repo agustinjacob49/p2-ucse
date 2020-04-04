@@ -1,2 +1,2 @@
 # p2-ucse
-P2 Ucse 
+P2 Ucse main repository
